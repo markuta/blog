@@ -8,7 +8,8 @@ tags:
  - wireless
  - mitmproxy
  - hostapd
-image: /tp-link-archer-t2u-nano-for-tls-traffic-interception/
+#image: /tp-link-archer-t2u-nano-for-tls-traffic-interception/
+site_url: https://markuta.github.io/blog/_posts/tp-link-archer-t2u-nano-for-tls-traffic-interception/
 ---
 
 ### Overview
@@ -18,7 +19,7 @@ In this guide we'll be going through the process of configuring an intercepting 
 
 A simple illustration of mitmproxy running in transparent mode under Debian Buster:
 
-![alt text]({{page.image}}/mitmproxy-example.png "mitmproxy example"){: .center-image }
+![alt text](/mitmproxy-example.png "mitmproxy example"){: .center-image }
 
 The communication process:
 ```
