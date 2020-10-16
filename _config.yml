@@ -24,7 +24,7 @@ author:
 url: "https://markuta.com" #
 baseurl:
 permalink: /:title/
-google_analytics: UA-101371754-1
+google_analytics: "UA-101371754-1"
 fb_appid:
 
 # Collection setting
