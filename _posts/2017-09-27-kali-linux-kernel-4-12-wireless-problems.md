@@ -7,7 +7,7 @@ tags:
     - kali linux
     - kernel
     - wireless
-image: /kali-linux-kernel-4-12-wireless-problems/
+image: /assets/img/kali-linux-kernel-4-12-wireless-problems
 ---
 #### UPDATE: Kali Team have migrated to a new Kernel Version
 I've tested the new kernel **4.12.13-1kali2** and can confirm it fixes issues with my wireless card. I'd advise people to update their packages and use this kernel. I'll keep this page as it's still a useful guide on how to downgrade for falling back on an other kernel. More info available: [https://pkg.kali.org/pkg/linux](https://pkg.kali.org/pkg/linux)

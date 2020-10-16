@@ -7,7 +7,7 @@ tags:
     - passwords
     - hardware
     - keylogger
-image: /keygrabber-nano-usb-keylogger-review/
+image: /assets/img/keygrabber-nano-usb-keylogger-review
 ---
 Whilst studying at University I became interested in hardware keyloggers, and so decided to purchase one for a research paper. This device is specifically for wired USB keyboards (non Wi-Fi or Bluetooth) which records every single key stroke typed, without the need for drivers or worrying about any security product. I thought why not write a review and share some interesting findings.
 

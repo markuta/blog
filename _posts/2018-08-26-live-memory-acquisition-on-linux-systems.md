@@ -9,7 +9,7 @@ tags:
     - lime
     - volatility
     - linux
-image: /live-memory-acquisition-on-linux-systems/
+image: /assets/img/live-memory-acquisition-on-linux-systems
 ---
 
 In this blog post I'll be demonstrating a process of obtaining or acquiring a memory image from a running Linux system. The tool of choice LiME (Linux Memory Extractor) and is available on [Github](https://github.com/504ensicsLabs/LiME){: target="_blank" __}.

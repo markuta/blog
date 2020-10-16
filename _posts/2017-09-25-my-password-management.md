@@ -6,7 +6,7 @@ description: What I personally use for Password management and a comparison agai
 tags: 
     - passwords
     - management
-image: /my-password-management/
+image: /assets/img/my-password-management
 ---
 Lets face it remembering passwords for dozens of sites is a pain which is why some people re-use their password or change it very slightly to avoid the hassle. If you're one of those who would rather generate random complex passwords for each site, the question on how those are stored will arise. Storing passwords in plaintext text file on your desktop is a big **no no**.
 

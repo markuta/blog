@@ -8,7 +8,7 @@ tags:
     - wireless
     - aircrack-ng
     - pentest
-image: /alfa-awus052nh-review/
+image: /assets/img/alfa-awus052nh-review
 ---
 The **Alfa AWUS052NH** is a high-performance Dual-Band (2.4GHz and 5GHz) wireless USB adapter. It's based on the MediaTek RT3572 chipset that supports IEEE 802.11 **a/b/g/n** standards with up to 300Mbps transfer speeds, it's Alfa's third device in their [802.11abgn USB](https://www.alfa.com.tw/products_list.php?pc=67) product range and has been available since March 2015 which costs around £47 or $60 depending on where you buy it.
 

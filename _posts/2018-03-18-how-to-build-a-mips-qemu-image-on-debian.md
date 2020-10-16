@@ -11,7 +11,7 @@ tags:
 #author: Nazariy Markuta
 #comments: false
 #share: true
-image: /how-to-build-a-mips-qemu-image-on-debian/
+image: /assets/img/how-to-build-a-mips-qemu-image-on-debian/
 ---
 How to set up and build your own MIPS big endian or little endian image running under the QEMU emulator. This guide can also be applied to other architectures. For example I'm currently running this in a virtual machine inside another virtual machine on my MacBook Pro. "We Need To Go Deeper" - Dom Cobb, Inception.
 

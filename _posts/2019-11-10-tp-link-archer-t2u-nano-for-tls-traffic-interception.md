@@ -8,8 +8,7 @@ tags:
  - wireless
  - mitmproxy
  - hostapd
-image: /assets/img/tp-link-archer-t2u-nano-for-tls-traffic-interception/
-site_url: https://markuta.github.io/blog/_posts/tp-link-archer-t2u-nano-for-tls-traffic-interception/
+image: /assets/img/tp-link-archer-t2u-nano-for-tls-traffic-interception
 ---
 
 ### Overview

@@ -11,7 +11,7 @@ tags:
 #author: Nazariy Markuta
 #comments: false
 #share: true
-image: /being-evil-against-encoded-php-files/
+image: /assets/img/being-evil-against-encoded-php-files
 ---
 Lets say a server has been exploited and an attacker wants to intercept data coming from a web application in order to gain sensitive information such as plaintext server passwords. Lets also say that application is WHMCS. One of the requirements is [IonCube Loader](https://www.ioncube.com/php_encoder.php) which protects PHP source code from easy observation, theft and **change** by compiling into bytecode.
 

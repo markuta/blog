@@ -8,7 +8,7 @@ tags:
   - howto
   - nzyme
   - graylog
-image: /how-to-set-up-nzyme-and-graylog/
+image: /assets/img/how-to-set-up-nzyme-and-graylog
 ---
 
 This guide shows you how to quickly set up and get started with Nzyme and Graylog version 2.3.2 using Docker. In this tutorial I'm using Mac OS but Docker can be install on any platform. For testing purposes, I'd recommend using Kali Linux or any Debian based distro on where Nzyme sensor is installed.
