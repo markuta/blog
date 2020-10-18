@@ -11,6 +11,4 @@ tag:
 ---
 Its been a while since I posted. This is a quick update of the new changes. I'm now using a new Jekyll theme called [klisé](https://github.com/piharpi/jekyll-klise) by Mahendrata Harpi. With this change, I'll also try to post more regularly since my last post was back in 2019.
 
-#### P.S.
-
 I have also added my public key which is available [here](https://markuta.com/about/).
