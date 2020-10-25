@@ -9,7 +9,7 @@ tags:
 #comments: false
 #author: Nazariy Markuta
 #share: true
-image: image: /assets/img/dynamips-cpu-fix/
+image: /assets/img/dynamips-cpu-fix/
 ---
 
 While working on a virtual pentest lab in VMWare Fusion. I had the desire of emulating a Cisco router device on a virtual network. The tool I used **Dynamics** did exactly that. However, it was eating up all CPU resources, making other guests almost unusable.
