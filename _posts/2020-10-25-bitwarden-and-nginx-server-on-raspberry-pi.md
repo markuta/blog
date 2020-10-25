@@ -326,6 +326,22 @@ certbot --manual --preferred-challenges dns certonly -d '*.example.com'
 I'd recommend you to obtain a **wildcard certificate** instead of a single subdomain certificate. This way you don't need to reveal your Bitwarden server to the world, since there's a public record of every Let's Encrypt registered certificate.
 
 
+## Starting and Stopping
+We will be using **docker-compose** along with the `docker-compose.yml` file to start and stop containers.
+
+To start your set-up, type (`-d` makes it run in the background):
+
+```bash
+docker-compose up -d
+```
+
+To stop the containers, type:
+```bash
+docker-compose down
+```
+
+
+
 ## Thanks
 [Bitwarden](https://bitwarden.com/) for creating an awesome password management solution.
 
