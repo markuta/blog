@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bitwarden and Nginx Server on Raspberry Pi
-date: 2020-10-25
+date: 2020-10-25 16:49:47 +07:00
+modified: 2020-10-26 16:49:47 +07:00
 description: A how-to guide on setting up a self hosted Bitwarden server using a Raspberry Pi. This password management solution uses Docker and a Nginx reverse proxy. This guide also includes information on how to harden your Bitwarden set-up.
 tags:
   - linux
@@ -129,7 +130,7 @@ Go to **Settings**:
 Select **Two-step login** and the type of 2FA you want to use. For example Authenticator app:
 ![alt text]({{page.image}}bitwarden-2fa-settings-2.png "Bitwarden 2FA Settings 2")
 
-Then enter your code. You can now stop the container and move on to the next stage. Locking down your Bitwarden server and including a Nginx web server and Fail2ban.
+Then enter your code. You can now stop the container and move on to the next stage. Locking down your Bitwarden server and including a Nginx reverse proxy server.
 ```
 docker stop bitwarden
 ```
@@ -149,7 +150,7 @@ To keep things organised I've created a folder called **bitwarden** which stores
 
 ##### Dockerfile
 
-This Dockerfile was created to ease the installation process. It contains three containers with some configuration options. You will have to change these to suite your own environment. The environment variables for the Bitwarden container are for my own personal preference.
+This Dockerfile was created to ease the installation process. It contains two containers with some configuration options. You will have to change these to suite your own environment. The environment variables for the Bitwarden container are for my own personal preference.
 
 ```yaml
 version: "3.5"
