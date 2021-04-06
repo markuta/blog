@@ -9,7 +9,7 @@ tags:
   - spotify
   - xss
   - web vulnerability
-image: /assets/img/xss-on-podcasters.spotify.com/
+image: /assets/img/xss-on-spotify/
 ---
 
 In this blog post I'll share a report I wrote a few months ago for a XSS bug found on `podcasters.spotify.com`. This was submitted on [HackerOne](https://hackerone.com/) but unfortunately, it was already reported and mine was considered a duplicate, oh well, better luck next time.
