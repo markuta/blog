@@ -21,10 +21,9 @@ When a user submits a new podcast RSS feed for verification, the description tag
 ## Impact
 When a user submits a malicious or compromised podcast RSS feed, attackers would be able to hijack the user's account.
 
-![alt text]({{page.image}}spotify-xss-example.png "XSS Cookie Alert Example")
+[![XSS Example 1]({{page.image}}spotify-xss-example.png)]({{page.image}}spotify-xss-example.png)
 
-Web browser network log.
-![alt text]({{page.image}}spotify-xss-example2.png "XSS Example 2")
+[![XSS Example 2]({{page.image}}spotify-xss-example2.png)]({{page.image}}spotify-xss-example2.png)
 
 ### Steps To Reproduce
 
