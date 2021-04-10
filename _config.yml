@@ -6,7 +6,7 @@ lang: en-GB # default lang
 timezone: Europe/London # set your timezone
 image: assets/img/avatar.jpg # This image used for Open Graph more info https://ogp.me/
 #repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
