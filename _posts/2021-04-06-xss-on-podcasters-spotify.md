@@ -1,9 +1,9 @@
 ---
 layout: post
-title: A XSS on podcasters.spotify.com 
+title: A XSS on Spotify's Podcasters 
 date: 2021-04-06 16:49:47 +07:00
 #modified: 2020-10-26 16:49:47 +07:00
-description: A quick report of a XSS vulnerability discovered on podcasters.spotify.com.
+description: A review of a XSS vulnerability discovered on podcasters.spotify.com.
 tags:
   - bug bounty
   - spotify
